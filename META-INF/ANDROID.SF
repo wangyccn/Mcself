@@ -1,0 +1,185 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android)
+SHA1-Digest-Manifest: rBnxk8gvw8yO/d+s9j/Ejf+CiQg=
+X-Android-APK-Signed: 2,3
+
+Name: 4.jpg
+SHA1-Digest: xYkscneh0NUSanM4QtlNk5JbCp0=
+
+Name: appConfig.xlt
+SHA1-Digest: vd/E+IEo2PD9SSrrBlHYYVYWHGc=
+
+Name: appIcon.png
+SHA1-Digest: SPJBw/b7CxryENqynMWw5OnCFsg=
+
+Name: index.html
+SHA1-Digest: AZt2W9FzdM0wxra8UTHNJnHaZZk=
+
+Name: index2.html
+SHA1-Digest: WnFNXodUDG4uOrr/5yVBvJtgAK4=
+
+Name: js/clipboard.js-master/.babelrc.json
+SHA1-Digest: EPnl1UbxDF+P4ACz7c1OArcDOWI=
+
+Name: js/clipboard.js-master/.editorconfig
+SHA1-Digest: fWiWDLNEw2YbCf4zkEHg5h6Y6og=
+
+Name: js/clipboard.js-master/.eslintignore
+SHA1-Digest: O7mcUOxI38BeijG5mfhe5Aqt2H0=
+
+Name: js/clipboard.js-master/.eslintrc.json
+SHA1-Digest: 3qVXECFSCqapLK+vwDbeGcVH6R8=
+
+Name: js/clipboard.js-master/.github/ISSUE_TEMPLATE/bug_report.md
+SHA1-Digest: t9RJyzgYI4k+qWOo6DBjbv0/Evg=
+
+Name: js/clipboard.js-master/.github/ISSUE_TEMPLATE/documentation.md
+SHA1-Digest: HmCV+7WCqwW/exKbrRgKH+2pJGU=
+
+Name: js/clipboard.js-master/.github/ISSUE_TEMPLATE/proposal.md
+SHA1-Digest: cqjCzeQfcyWb8Exlk05JdpGpuYk=
+
+Name: js/clipboard.js-master/.github/PULL_REQUEST_TEMPLATE.md
+SHA1-Digest: f/wSopFYs9BaqoRON70Bj+mSlA4=
+
+Name: js/clipboard.js-master/.github/stale.yml
+SHA1-Digest: Z9bBOQQmo3OSwLizxkeET/UYOg0=
+
+Name: js/clipboard.js-master/.github/workflows/publish.yml
+SHA1-Digest: BHj+1qCRddrpi13Wj+KvNN+03FI=
+
+Name: js/clipboard.js-master/.github/workflows/test.js.yml
+SHA1-Digest: Go+ncVfRITbm8Nn5zMJr5xM0W0M=
+
+Name: js/clipboard.js-master/.gitignore
+SHA1-Digest: tkHW6s1hgiyN4s3og4jtbXeZgvI=
+
+Name: js/clipboard.js-master/.husky/.gitignore
+SHA1-Digest: 5kLpxnAuT6aRXh5SzYR4LxgO6GA=
+
+Name: js/clipboard.js-master/.husky/pre-commit
+SHA1-Digest: vJ2ZzqJuAJ8cQ5L0J8P5y/UhmmQ=
+
+Name: js/clipboard.js-master/.nvmrc
+SHA1-Digest: 86XdSc3cc14Vb+qVZakx3mbjSho=
+
+Name: js/clipboard.js-master/.prettierignore
+SHA1-Digest: oe+6HoO9yLI5EwvW9yWrVbazimQ=
+
+Name: js/clipboard.js-master/.prettierrc.json
+SHA1-Digest: 5O4OEHypR8c5vC2Dlm9VKdXpOkk=
+
+Name: js/clipboard.js-master/LICENSE
+SHA1-Digest: DxqisIzRanK3/gLB3Zio8/Phkoc=
+
+Name: js/clipboard.js-master/bower.json
+SHA1-Digest: gecn5dpRlpzm3OAV9ec86hOG1us=
+
+Name: js/clipboard.js-master/composer.json
+SHA1-Digest: CxDdkqvM9JotgDPhNZIK96Abu9Y=
+
+Name: js/clipboard.js-master/contributing.md
+SHA1-Digest: eseeBjpbOYtildoyWP6bJ0D/0HI=
+
+Name: js/clipboard.js-master/demo/constructor-node.html
+SHA1-Digest: HAVUTAfiJTFozpjx2dYfeCZXeQI=
+
+Name: js/clipboard.js-master/demo/constructor-nodelist.html
+SHA1-Digest: 6FO2hDkI4AxVOt4JNVlhxmaLBE0=
+
+Name: js/clipboard.js-master/demo/constructor-selector.html
+SHA1-Digest: 9Aw1sRg7yS0INlE6L75eLgTs9hk=
+
+Name: js/clipboard.js-master/demo/function-target.html
+SHA1-Digest: g/Ba4d2UOOjv0TZ7HwpMsvkhO2Q=
+
+Name: js/clipboard.js-master/demo/function-text.html
+SHA1-Digest: rjiFtd7AtcQAmoXxYlEnBgj73Yg=
+
+Name: js/clipboard.js-master/demo/target-div.html
+SHA1-Digest: 5FJJLJxtj6T31RBG9eBHHoHFIaE=
+
+Name: js/clipboard.js-master/demo/target-input-number.html
+SHA1-Digest: PuuL3f8YtusRNL+IhpNtCBOPEs0=
+
+Name: js/clipboard.js-master/demo/target-input.html
+SHA1-Digest: S4XYML4bryMZuQqt4IXK0YKTJwY=
+
+Name: js/clipboard.js-master/demo/target-programmatic-copy.html
+SHA1-Digest: NmOY9Qgs+5Ny0IILo2++uB+8OI0=
+
+Name: js/clipboard.js-master/demo/target-programmatic-cut.html
+SHA1-Digest: Ir0fWsOvAKn59q8mvF+HojuILCI=
+
+Name: js/clipboard.js-master/demo/target-textarea.html
+SHA1-Digest: OIpdQAdhTrKYXq7AJWmT1nXdUi8=
+
+Name: js/clipboard.js-master/demo/text-programmatic-copy.html
+SHA1-Digest: UTXRqaaMaZDlQj4XkM1NnjPij9E=
+
+Name: js/clipboard.js-master/dist/clipboard.js
+SHA1-Digest: czrxF29q7rHfwyYCT5cxPiwUBfU=
+
+Name: js/clipboard.js-master/dist/clipboard.min.js
+SHA1-Digest: n1pfnYGXY3GTiazkoItVUNlAAvk=
+
+Name: js/clipboard.js-master/karma.conf.js
+SHA1-Digest: HTp1DmZn5wuu8HVJaRjCc/jNLiA=
+
+Name: js/clipboard.js-master/package-lock.json
+SHA1-Digest: sGkKX8gJOyGbHRk8TIckC4u+6bY=
+
+Name: js/clipboard.js-master/package.js
+SHA1-Digest: FD6OtDxHifStjg7FL/JTeFDfKG0=
+
+Name: js/clipboard.js-master/package.json
+SHA1-Digest: rnSubDG8gzGhubm/SsnE9Oj6xyw=
+
+Name: js/clipboard.js-master/readme.md
+SHA1-Digest: Mxk2eRLaQqN8rfrJk9jisUhdk1E=
+
+Name: js/clipboard.js-master/src/actions/copy.js
+SHA1-Digest: NfXSULE/z3sTzuIKbjALmZi8RGk=
+
+Name: js/clipboard.js-master/src/actions/cut.js
+SHA1-Digest: vIPkqfDo1DHDYdJW3FrnmrE8SDc=
+
+Name: js/clipboard.js-master/src/actions/default.js
+SHA1-Digest: lFJieutU8XAMxNHx1R1nLKUswy4=
+
+Name: js/clipboard.js-master/src/clipboard.d.ts
+SHA1-Digest: YlPYlaV9N+erEAiA3FDfKK0ojrk=
+
+Name: js/clipboard.js-master/src/clipboard.js
+SHA1-Digest: LiOtuF9QSm6sxQiCc4+7c7W8rVc=
+
+Name: js/clipboard.js-master/src/clipboard.test-d.ts
+SHA1-Digest: aR7oDQLk9R5fUnnoIQ8xedVHL3U=
+
+Name: js/clipboard.js-master/src/common/command.js
+SHA1-Digest: LtLym0daQaFzRBcoL0G8LXBbHu4=
+
+Name: js/clipboard.js-master/src/common/create-fake-element.js
+SHA1-Digest: GJlAF4k3otZlv7qkpGfSlTDkiMo=
+
+Name: js/clipboard.js-master/test/actions/copy.js
+SHA1-Digest: VuZB0/Dr97b8QUXldrLrfW4hqf0=
+
+Name: js/clipboard.js-master/test/actions/cut.js
+SHA1-Digest: 4OCapju5qAl8JU4l9tUnC87Av+k=
+
+Name: js/clipboard.js-master/test/actions/default.js
+SHA1-Digest: 8w+DFr2P6FocPoATD6ME2DHvpqc=
+
+Name: js/clipboard.js-master/test/clipboard.js
+SHA1-Digest: ZsWDYaHzaoEAXg+nM8+7gAE2EcQ=
+
+Name: js/clipboard.js-master/test/common/command.js
+SHA1-Digest: FWHcgTHgwWblTM9TZ3mzQSXA4q4=
+
+Name: js/clipboard.js-master/test/common/create-fake-element.js
+SHA1-Digest: hfe21uvDZ4/tzSTzH1dk4GbvHQY=
+
+Name: js/clipboard.js-master/webpack.config.js
+SHA1-Digest: PTW1jbe79iyI5MBwXMluHrWq28w=
+
